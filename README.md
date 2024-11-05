@@ -135,9 +135,9 @@ Content-Type: application/json
     "username": "yourusername",
     "password": "yourpassword"
 }
+```
 
 The response will include a token, which you should add to the Authorization header for authenticated requests.
 
 #### Contribution
 We welcome contributions! If you'd like to contribute to this project.
-```
